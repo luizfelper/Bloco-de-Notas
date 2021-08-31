@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
 .card-nota {
     flex-direction: columns;
     align-items: flex-start;
@@ -9,6 +15,9 @@
     padding: 16px;
 }
 
+ul {
+    list-style: none;
+}
 .card-nota_cabeçalho {
     font-size: 1.1em;
     display: flex;
