@@ -1,4 +1,4 @@
-# Aplica de anotações feito em React!
+# Aplicação de anotações feito em React!
 
 Visualiza o projeto online: [Notas Online](http://notas-one.vercel.app)
 
