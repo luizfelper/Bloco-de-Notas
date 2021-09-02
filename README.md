@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Aplicação de anotações feito em React!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visualiza o projeto online: [Notas Online](http://notas-one.vercel.app)
+
+Esse projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
