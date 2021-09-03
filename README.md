@@ -1,4 +1,5 @@
 # Aplicação de anotações feito em React!
+<img src="https://repository-images.githubusercontent.com/401704637/a119bfb9-6d3f-4a90-9917-2beecdd85353" />
 
 Visualiza o projeto online: [Notas Online](http://notas-one.vercel.app)
 
