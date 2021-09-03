@@ -8,7 +8,7 @@ class CardNota extends Component {
                 <header className="card-nota_cabeçalho">
                     <h3 className="card-nota_titulo">Título</h3>
                 </header>
-                <p className="card-nota_texto">Escreva uma nota</p>
+                <p className="card-nota_texto">Escreva sua nota aqui</p>
             </section>
         );
     }
